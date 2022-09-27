@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "email": "its.shahrear@gmail.com",
+      "password": "$2a$10$zUdaP08uqF.zBUNQN2EJl.ffNtR/rco7fnx.vaROjJ7JcyvVnduIW",
+      "id": 1,
+      "avatar": "https://avatars.githubusercontent.com/u/97020042?v=4",
+      "name": "Shahrear ahamed"
+    },
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$10$rOrKHPaIuhkIp7lXnyr/7eIPY2/ic.PRTWHOL2ogpZRNRM86vkJeC",
+      "id": 2,
+      "avatar": "https://avatars.githubusercontent.com/u/109970733?s=200&v=4",
+      "name": "Sumit saha"
+    },
+    {
+      "email": "akash@learnwithsumit.com",
+      "password": "$2a$10$klvTzDPOi8iq6ffCcH2kyu1KW4uLrct/GMol9284DiJl5p2TxcWy2",
+      "id": 3,
+      "avatar": "https://avatars.githubusercontent.com/u/71524256?v=4",
+      "name": "Akash ahamed"
+    },
+    {
+      "email": "saad@learnwithsumit.com",
+      "password": "$2a$10$/eZhqF.XLhw60l/pe6ma9uDdEjpEb50/WCkqrH.N7jso1DzzF./da",
+      "id": 4,
+      "avatar": "https://avatars.githubusercontent.com/u/37630292?s=70&v=4",
+      "name": "Saad Hossain"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "design"
+    },
+    {
+      "id": 2,
+      "title": "dev"
+    },
+    {
+      "id": 3,
+      "title": "Security"
+    },
+    {
+      "id": 4,
+      "title": "marketing"
+    },
+    {
+      "id": 5,
+      "title": "sales"
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "design",
+      "state": "Backlog",
+      "title": "This is the title of the card for the thing that needs to be done.",
+      "timestamp": 1664077271219,
+      "color": "bg-green-500",
+      "creator": "its.shahrear@gmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/97020042?v=4",
+      "members": [
+        "its.shahrear@gmail.com",
+        "akash@learnwithsumit.com"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "dev",
+      "state": "Ready",
+      "title": "This is the title of the card for the thing that needs to be done.",
+      "timestamp": 1664077271219,
+      "color": "bg-red-500",
+      "creator": "sumit@learnwithsumit.com",
+      "avatar": "https://avatars.githubusercontent.com/u/109970733?s=200&v=4",
+      "members": []
+    },
+    {
+      "id": 3,
+      "name": "dev",
+      "state": "Doing",
+      "title": "This is the title of the card for the thing that needs to be done.",
+      "timestamp": 1664077271219,
+      "color": "bg-red-500",
+      "creator": "sumit@learnwithsumit.com",
+      "avatar": "https://avatars.githubusercontent.com/u/109970733?s=200&v=4",
+      "members": []
+    },
+    {
+      "name": "Security ",
+      "state": "Review",
+      "title": "this is test 1 ",
+      "color": "bg-orange-500",
+      "timestamp": 1664103091696,
+      "creator": "its.shahrear@gmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/97020042?v=4",
+      "members": [],
+      "id": 4
+    },
+    {
+      "name": "Security",
+      "state": "Blocked",
+      "title": "this is test 2",
+      "color": "bg-blue-500",
+      "timestamp": 1664105254709,
+      "creator": "its.shahrear@gmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/97020042?v=4",
+      "members": [
+        "its.shahrear@gmail.com",
+        "sumit@learnwithsumit.com",
+        "akash@learnwithsumit.com"
+      ],
+      "id": 5
+    },
+    {
+      "name": "marketing",
+      "state": "Done",
+      "title": "this is test 3 another test 3 already have",
+      "color": "bg-green-500",
+      "timestamp": 1664115294579,
+      "creator": "its.shahrear@gmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/97020042?v=4",
+      "members": [
+        "its.shahrear@gmail.com",
+        "saad@learnwithsumit.com"
+      ],
+      "id": 6
+    },
+    {
+      "name": "sales",
+      "state": "Backlog",
+      "title": "This is test 4 how work fast",
+      "color": "bg-pink-500",
+      "timestamp": 1664164911001,
+      "creator": "its.shahrear@gmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/97020042?v=4",
+      "members": [
+        "its.shahrear@gmail.com",
+        "saad@learnwithsumit.com"
+      ],
+      "id": 7
+    },
+    {
+      "name": "Security",
+      "state": "Backlog",
+      "title": "this is security page",
+      "color": "bg-green-500",
+      "timestamp": 1664287295464,
+      "avatar": "https://avatars.githubusercontent.com/u/97020042?v=4",
+      "creator": "its.shahrear@gmail.com",
+      "members": [
+        "its.shahrear@gmail.com"
+      ],
+      "id": 8
+    }
+  ]
+}
